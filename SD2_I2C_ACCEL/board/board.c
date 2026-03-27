@@ -134,3 +134,6 @@ status_t BOARD_Accel_I2C_Receive(uint8_t deviceAddress, uint32_t subAddress, uin
     return BOARD_I2C_Receive(BOARD_ACCEL_I2C_BASEADDR, deviceAddress, subAddress, subaddressSize, rxBuff, rxBuffSize);
 }
 #endif /* SDK_I2C_BASED_COMPONENT_USED */
+
+
+//Esto es una prueba del gitk
