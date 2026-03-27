@@ -56,5 +56,7 @@ extern "C" {
 }
 #endif
 
+//Modifico esto por aca
+
 /*==================[end of file]============================================*/
 #endif /* SD2_I2C_H_ */
